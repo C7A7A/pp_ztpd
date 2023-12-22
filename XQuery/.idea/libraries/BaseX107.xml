@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BaseX107">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseX107.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
